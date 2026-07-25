@@ -126,7 +126,6 @@ Alongside front-end development, I have experience in **WordPress website suppor
 <p align="center">
   <a href="https://www.coretechinnovations.co.uk/">
     <img
-      src="./assets/coretech.webp"
       alt="CoreTech Innovations website preview"
       width="95%"
     />
@@ -138,7 +137,6 @@ Corporate website developed for a UK-based technology and IT solutions company, 
 <p>
   <a href="https://www.coretechinnovations.co.uk/">
     <img
-      src="https://img.shields.io/badge/View%20Live%20Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"
       alt="View CoreTech Innovations live website"
     />
   </a>
@@ -151,7 +149,6 @@ Corporate website developed for a UK-based technology and IT solutions company, 
 <p align="center">
   <a href="https://samirbrand.ir/">
     <img
-      src="./assets/samirbrand.webp"
       alt="Samir Brand website preview"
       width="95%"
     />
