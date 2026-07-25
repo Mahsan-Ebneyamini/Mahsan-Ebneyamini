@@ -9,13 +9,13 @@ I build modern, responsive, and user-friendly websites through programming.
 <br/>
 
 <a href="mailto:ebneyaminimahsan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me by email"/>
 </a>
 <a href="https://saanisoft.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio"/>
 </a>
 <a href="https://github.com/Mahsan-Ebneyamini">
-  <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="View my GitHub profile"/>
 </a>
 
 </div>
@@ -26,9 +26,9 @@ I build modern, responsive, and user-friendly websites through programming.
 
 I'm **Mahsan**, a Web Developer and Software Engineering student based in Tehran, Iran.
 
-I work in the field of **website programming and front-end development**, creating modern, responsive, and user-friendly websites for businesses and individuals.
+I work in **website programming and front-end development**, creating modern, responsive, and user-friendly websites for businesses and individuals.
 
-Alongside front-end development, I also have experience in **WordPress website support and maintenance**, including content updates, troubleshooting, website management, and improving existing pages.
+Alongside front-end development, I have experience in **WordPress website support and maintenance**, including content updates, page management, troubleshooting, and improving existing websites.
 
 ### What I Do
 
@@ -37,7 +37,7 @@ Alongside front-end development, I also have experience in **WordPress website s
 - 🌐 Business, corporate, and personal websites
 - 📱 Responsive design for desktop, tablet, and mobile
 - 🎨 Converting designs into functional web pages
-- 🛠️ WordPress support and website maintenance
+- 🛠️ WordPress website support and maintenance
 - 🚀 Improving website usability and performance
 
 ---
@@ -60,7 +60,7 @@ Alongside front-end development, I also have experience in **WordPress website s
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
 </p>
 
 ---
@@ -99,9 +99,9 @@ Alongside front-end development, I also have experience in **WordPress website s
 ### 🛠️ WordPress Support
 
 - Website maintenance
-- Content and page updates
+- Page and content updates
 - Troubleshooting common issues
-- Website management
+- Website content management
 
 </td>
     <td width="50%" valign="top">
@@ -123,15 +123,24 @@ Alongside front-end development, I also have experience in **WordPress website s
 
 ### 🌍 CoreTech Innovations
 
-<a href="https://www.coretechinnovations.co.uk/">
-  <img src="./assets/coretech.png" alt="CoreTech Innovations website preview" width="100%"/>
-</a>
+<p align="center">
+  <a href="https://www.coretechinnovations.co.uk/">
+    <img
+      src="./assets/coretech.webp"
+      alt="CoreTech Innovations website preview"
+      width="95%"
+    />
+  </a>
+</p>
 
-Corporate website developed for a UK-based technology and IT solutions company, with a modern and responsive interface.
+Corporate website developed for a UK-based technology and IT solutions company, featuring a modern and responsive interface.
 
 <p>
   <a href="https://www.coretechinnovations.co.uk/">
-    <img src="https://img.shields.io/badge/View%20Live%20Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View CoreTech website"/>
+    <img
+      src="https://img.shields.io/badge/View%20Live%20Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="View CoreTech Innovations live website"
+    />
   </a>
 </p>
 
@@ -139,15 +148,24 @@ Corporate website developed for a UK-based technology and IT solutions company, 
 
 ### 💎 Samir Brand
 
-<a href="https://samirbrand.ir/">
-  <img src="./assets/samirbrand.png" alt="Samir Brand website preview" width="100%"/>
-</a>
+<p align="center">
+  <a href="https://samirbrand.ir/">
+    <img
+      src="./assets/samirbrand.webp"
+      alt="Samir Brand website preview"
+      width="95%"
+    />
+  </a>
+</p>
 
 Modern jewelry brand website with an elegant visual style, responsive layout, and user-friendly experience.
 
 <p>
   <a href="https://samirbrand.ir/">
-    <img src="https://img.shields.io/badge/View%20Live%20Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Samir Brand website"/>
+    <img
+      src="https://img.shields.io/badge/View%20Live%20Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="View Samir Brand live website"
+    />
   </a>
 </p>
 
@@ -155,15 +173,24 @@ Modern jewelry brand website with an elegant visual style, responsive layout, an
 
 ### 🦷 Dr. Reza Ahaki
 
-<a href="https://drrezaahaki.com/">
-  <img src="./assets/drrezaahaki.png" alt="Dr Reza Ahaki website preview" width="100%"/>
-</a>
+<p align="center">
+  <a href="https://drrezaahaki.com/">
+    <img
+      src="./assets/drrezaahaki.webp"
+      alt="Dr. Reza Ahaki website preview"
+      width="95%"
+    />
+  </a>
+</p>
 
 Professional website developed for a dental specialist, featuring a clean interface and responsive user experience.
 
 <p>
   <a href="https://drrezaahaki.com/">
-    <img src="https://img.shields.io/badge/View%20Live%20Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Dr Reza Ahaki website"/>
+    <img
+      src="https://img.shields.io/badge/View%20Live%20Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="View Dr. Reza Ahaki live website"
+    />
   </a>
 </p>
 
@@ -173,9 +200,9 @@ Professional website developed for a dental specialist, featuring a clean interf
 
 ### 💻 Web Development
 
-- Developed and worked on real-world business websites
+- Developed and contributed to real-world business websites
 - Created responsive layouts for mobile, tablet, and desktop
-- Converted designs and business requirements into web pages
+- Converted designs and business requirements into functional web pages
 - Worked with React and Next.js in front-end projects
 - Focused on clean interfaces and user-friendly experiences
 
@@ -183,8 +210,9 @@ Professional website developed for a dental specialist, featuring a clean interf
 
 - Supported and maintained WordPress websites
 - Updated pages, text, images, and website content
-- Helped troubleshoot common website problems
-- Improved and managed existing website sections
+- Managed existing website pages and sections
+- Helped troubleshoot common website issues
+- Improved the usability of existing pages
 
 ---
 
@@ -194,7 +222,7 @@ Professional website developed for a dental specialist, featuring a clean interf
 - Building responsive and accessible websites
 - Writing cleaner and more maintainable code
 - Improving website performance and usability
-- Expanding my experience with real-world projects
+- Expanding my experience through real-world projects
 
 ---
 
@@ -220,7 +248,8 @@ Professional website developed for a dental specialist, featuring a clean interf
 </p>
 
 <!--
-بعد از آماده‌شدن لینکدین، این بخش را از حالت کامنت خارج کن:
+After creating your LinkedIn profile, replace YOUR_LINKEDIN_URL
+and remove the comment markers around this section.
 
 <p>
   💼 <strong>LinkedIn:</strong>
@@ -236,6 +265,9 @@ Professional website developed for a dental specialist, featuring a clean interf
 
 ### 💜 Turning ideas into modern web experiences.
 
-<img src="https://komarev.com/ghpvc/?username=Mahsan-Ebneyamini&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views"/>
+<img
+  src="https://komarev.com/ghpvc/?username=Mahsan-Ebneyamini&label=Profile%20Views&color=7C3AED&style=flat-square"
+  alt="Profile views"
+/>
 
 </div>
