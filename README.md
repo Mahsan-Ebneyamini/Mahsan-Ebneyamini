@@ -1,117 +1,80 @@
 <div align="center">
 
-# 👋 Hi there, I'm Mahsan Ebneyamini
+# 👋 Hi, I'm Mahsan Ebneyamini
 
-### Front-End Developer • React & Next.js Enthusiast • Software Engineering Student
+### Front-End Developer • React • Next.js • TypeScript
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Experiences;React+%7C+Next.js+%7C+TypeScript;Always+Learning+Something+New+🚀" />
+Building modern, responsive and user-friendly web applications.
+
+<p>
+  <a href="mailto:ebneyaminimahsan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Mahsan-Ebneyamini">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+![](https://komarev.com/ghpvc/?username=Mahsan-Ebneyamini&style=for-the-badge&color=7C3AED)
 
 </div>
 
 ---
 
-# 💫 About Me
+## 🚀 About Me
 
 ```ts
-const Mahsan = {
-    age: 22,
-    location: "Tehran, Iran",
+const me = {
+  name: "Mahsan Ebneyamini",
+  role: "Front-End Developer",
+  age: 22,
+  education: "B.Sc. Software Engineering",
+  location: "Tehran, Iran",
 
-    education: "B.Sc. Software Engineering",
-
-    role: "Front-End Developer",
-
-    currentlyLearning: [
-        "Next.js",
-        "TypeScript",
-        "Node.js"
-    ],
-
-    interests: [
-        "UI/UX",
-        "Clean Code",
-        "Performance",
-        "Modern Web"
-    ],
-
-    motto:
-        "Turning ideas into beautiful digital experiences."
+  currentlyLearning: [
+    "Next.js",
+    "TypeScript",
+    "Node.js"
+  ]
 }
 ```
 
-- 💻 Front-End Developer specializing in **React & Next.js**
-- 🎓 Bachelor's student in **Software Engineering**
-- 🚀 Passionate about building responsive and modern web applications
-- 🌱 Currently improving my skills in **TypeScript, Next.js and Backend Fundamentals**
-- 💬 Ask me about **React, JavaScript, Next.js, Tailwind CSS**
-- ⚡ I enjoy designing elegant user experiences.
+- 💻 Front-End Developer
+- 🎓 Software Engineering Student
+- ⚡ Passionate about React & Next.js
+- 🌱 Always learning new technologies
+- 💜 Clean UI & User Experience Lover
 
 ---
 
-# 🚀 Featured Projects
+## 💻 Tech Stack
 
-| Project | Description |
-|---------|-------------|
-| 🌐 https://www.coretechinnovations.co.uk | Corporate website for a UK technology company |
-| 💎 https://samirbrand.ir | Modern Jewelry Brand Website |
-| 👨‍⚕️ https://drrezaahaki.com | Personal website for a professional dentist |
-| 📦 https://gilpack.ir | Business website for a packaging company |
+<p align="center">
 
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-</p>
-
-### Front-End
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,sass" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify,npm" />
-</p>
-
----
-
-# 🌐 Connect with Me
-
-<p align="left">
-
-<a href="mailto:ebneyaminimahsan@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://instagram.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
-<a href="https://saanisoft.com">
-<img src="https://skillicons.dev/icons?i=devto" />
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,redux,git,github,vscode,figma,postman,vercel" />
 
 </p>
 
 ---
 
-# 📈 GitHub Analytics
+## 🌍 Featured Projects
+
+| Project | Link |
+|---------|------|
+| 🌐 CoreTech Innovations | https://www.coretechinnovations.co.uk |
+| 💎 Samir Brand | https://samirbrand.ir |
+| 👨‍⚕️ Dr Reza Ahaki | https://drrezaahaki.com |
+| 📦 Gilpack | https://gilpack.ir |
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mahsan-Ebneyamini&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mahsan-Ebneyamini&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahsan-Ebneyamini&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahsan-Ebneyamini&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -119,50 +82,21 @@ const Mahsan = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Mahsan-Ebneyamini&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Mahsan-Ebneyamini&theme=transparent&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📊 Contribution Graph
+## 📫 Contact Me
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahsan-Ebneyamini&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Mahsan-Ebneyamini/Mahsan-Ebneyamini/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# ☕ Current Focus
-
-```text
-⚡ Building scalable React applications
-
-🚀 Learning advanced Next.js App Router
-
-🎯 Writing cleaner and maintainable code
-
-💙 Open Source Contributions
-```
+- 📧 ebneyaminimahsan@gmail.com
+- 🌍 https://saanisoft.com
 
 ---
 
 <div align="center">
 
-### ✨ "Code is where creativity meets logic."
-
-<img src="https://komarev.com/ghpvc/?username=Mahsan-Ebneyamini&style=for-the-badge&color=7C3AED"/>
+### Thanks for visiting! ⭐
 
 </div>
