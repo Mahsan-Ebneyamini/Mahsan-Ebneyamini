@@ -1,195 +1,165 @@
 <div align="center">
 
-# Hi, I'm Mahsan Ebneyamini 👋
+# 👋 Hi, I'm Mahsan Ebneyamini
 
-### Front-End Developer · React & Next.js Developer
+### Web Developer • Front-End Developer • React & Next.js
 
-I build modern, responsive and user-friendly web experiences.
+Building modern websites through clean code, responsive design, and great user experience.
 
-<br/>
+<br>
 
 <a href="mailto:ebneyaminimahsan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
 <a href="https://github.com/Mahsan-Ebneyamini">
-  <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github">
 </a>
+
 <a href="https://saanisoft.com">
-  <img src="https://img.shields.io/badge/Website-Visit%20Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
 </div>
 
-<br/>
+---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-I’m **Mahsan**, a 22-year-old Front-End Developer and Software Engineering student based in Tehran, Iran.
+I'm **Mahsan**, a Web Developer and Software Engineering student from Tehran, Iran.
 
-- 🎓 Studying for a Bachelor's degree in Software Engineering
-- 💻 Building responsive and modern websites
-- ⚛️ Working mainly with React, Next.js and JavaScript
-- 🌱 Currently improving my TypeScript and Next.js skills
-- 🎨 Interested in clean interfaces and user-friendly experiences
-- 🚀 Passionate about turning ideas into real digital products
+I work in the field of **website programming and front-end development**, creating modern, responsive, and high-performance websites for businesses and individuals.
 
-<br/>
+Besides front-end development, I also have experience in **WordPress website support and maintenance**, including content management, troubleshooting, and improving existing websites.
 
-## 🛠️ Tech Stack
+### What I Do
 
-### Front-End Development
+- 💻 Website Programming
+- ⚛️ Front-End Development
+- 🌐 Business & Corporate Websites
+- 📱 Responsive Web Design
+- 🛠️ WordPress Support & Maintenance
+- 🎨 UI Implementation
+- 🚀 Website Optimization
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-</p>
+---
 
-### Styling & UI
+# 🛠 Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
-</p>
+### Languages
 
-### State Management & Tools
+![](https://skillicons.dev/icons?i=html,css,js)
 
-<p>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
-</p>
+### Frameworks
 
-<br/>
+![](https://skillicons.dev/icons?i=react,nextjs)
 
-## 🚀 Featured Projects
+### Styling
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">CoreTech Innovations</h3>
-      <p>
-        Corporate website created for a UK-based technology and IT solutions company.
-      </p>
-      <p align="center">
-        <a href="https://www.coretechinnovations.co.uk/">
-          <img src="https://img.shields.io/badge/View%20Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="CoreTech Innovations"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Samir Brand</h3>
-      <p>
-        A modern and responsive website created for a jewelry brand.
-      </p>
-      <p align="center">
-        <a href="https://samirbrand.ir/">
-          <img src="https://img.shields.io/badge/View%20Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Samir Brand"/>
-        </a>
-      </p>
-    </td>
-  </tr>
+![](https://skillicons.dev/icons?i=tailwind,bootstrap)
 
-  <tr>
-    <td width="50%">
-      <h3 align="center">Dr. Reza Ahaki</h3>
-      <p>
-        Personal and professional website developed for a dental specialist.
-      </p>
-      <p align="center">
-        <a href="https://drrezaahaki.com/">
-          <img src="https://img.shields.io/badge/View%20Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Dr Reza Ahaki"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Gilpack</h3>
-      <p>
-        Business website designed and developed for a packaging company.
-      </p>
-      <p align="center">
-        <a href="https://gilpack.ir/">
-          <img src="https://img.shields.io/badge/View%20Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Gilpack"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+### Tools
 
-<br/>
+![](https://skillicons.dev/icons?i=git,github,vscode)
 
-## 📚 Currently Learning
+### Also Working With
 
-- Advanced React patterns
-- Next.js App Router
-- TypeScript best practices
-- Front-End performance optimization
-- Backend fundamentals with Node.js
+- WordPress
+- Responsive Design
+- Website Maintenance
+- UI/UX Implementation
 
-<br/>
+---
 
-## 🎯 Current Goals
+# 💼 Services
 
-- Build accessible and high-performance web applications
-- Improve my knowledge of scalable Front-End architecture
-- Contribute to open-source projects
-- Collaborate with creative development teams
+| 💻 Development | 🛠 Support |
+|:--------------|:-----------|
+| Business Websites | WordPress Maintenance |
+| Corporate Websites | Website Updates |
+| Landing Pages | Bug Fixes |
+| Responsive Websites | Content Management |
+| React Development | Website Improvements |
 
-<br/>
+---
 
-## 📬 Contact Me
+# 🚀 Selected Projects
 
-<p>
-  <strong>Email:</strong>
-  <a href="mailto:ebneyaminimahsan@gmail.com">
-    ebneyaminimahsan@gmail.com
-  </a>
-</p>
+## 🌐 CoreTech Innovations
 
-<p>
-  <strong>Website:</strong>
-  <a href="https://saanisoft.com">
-    saanisoft.com
-  </a>
-</p>
+Corporate website developed for a UK technology company.
 
-<p>
-  <strong>Location:</strong>
-  Tehran, Iran
-</p>
+🔗 https://www.coretechinnovations.co.uk/
 
-<!--
-LinkedIn خودت را که ساختی، این بخش را از حالت کامنت خارج کن:
+---
 
-<p>
-  <strong>LinkedIn:</strong>
-  <a href="YOUR_LINKEDIN_URL">
-    Mahsan Ebneyamini
-  </a>
-</p>
--->
+## 💎 Samir Brand
 
-<br/>
+Modern jewelry brand website.
+
+🔗 https://samirbrand.ir/
+
+---
+
+## 👨‍⚕️ Dr. Reza Ahaki
+
+Personal website for a professional dentist.
+
+🔗 https://drrezaahaki.com/
+
+---
+
+## 📦 Gilpack
+
+Corporate website for a packaging company.
+
+🔗 https://gilpack.ir/
+
+---
+
+# 📌 Experience
+
+### Web Developer
+
+Developing modern websites using front-end technologies with a focus on performance, responsiveness, and clean code.
+
+### WordPress Support
+
+Supporting and maintaining WordPress websites by updating content, fixing issues, and improving website performance.
+
+---
+
+# 🎯 Current Focus
+
+- React.js
+- Next.js
+- Modern Front-End Development
+- Website Performance
+- Responsive Design
+- Clean UI
+
+---
+
+# 📫 Contact
+
+📧 **Email**
+
+ebneyaminimahsan@gmail.com
+
+🌐 **Portfolio**
+
+https://saanisoft.com
+
+📍 **Location**
+
+Tehran, Iran
+
+---
 
 <div align="center">
 
-### “Turning creative ideas into meaningful web experiences.”
+### 💜 Building modern websites through programming.
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Mahsan-Ebneyamini&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views"/>
-
-<br/><br/>
-
-**Thanks for visiting my profile!**
+![](https://komarev.com/ghpvc/?username=Mahsan-Ebneyamini&style=for-the-badge&color=7C3AED)
 
 </div>
